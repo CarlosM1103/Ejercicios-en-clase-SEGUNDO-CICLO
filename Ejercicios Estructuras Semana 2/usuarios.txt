@@ -1,0 +1,10 @@
+Usuario 1
+Carlos
+adsd
+Loja
+-----------------
+Usuario 2
+Loscar
+fdf
+Zamora
+-----------------
