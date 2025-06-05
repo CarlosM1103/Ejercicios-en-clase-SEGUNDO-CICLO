@@ -72,7 +72,7 @@ public class ListaCircularSimple {
         }
 
         if (actual == cabeza) {
-            if (cabeza.siguiente == cabeza) { // Solo un nodo
+            if (cabeza.siguiente == cabeza) { 
                 cabeza = null;
             } else {
                 NodoCircularSimple ultimo = cabeza;
@@ -160,7 +160,8 @@ public class ListaCircularSimple {
                 case "6":
                     return;
                 default:
-                    System.out.println("Opción inválida.");
+                    System.out.println("Opcion no valida");
+                break;
             }
         }
     }

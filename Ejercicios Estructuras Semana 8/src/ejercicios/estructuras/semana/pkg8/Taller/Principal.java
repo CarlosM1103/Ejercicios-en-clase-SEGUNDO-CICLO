@@ -12,9 +12,7 @@ import java.util.Scanner;
  */
 public class Principal {
 
-    static Scanner leer = new Scanner(System.in);
-
-   // ... (aquí van todas las clases de listas que ya te di antes)
+   static Scanner leer = new Scanner(System.in);
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
